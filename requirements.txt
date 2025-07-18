@@ -1,0 +1,6 @@
+tensorflow
+Flask
+numpy
+opencv-python
+scikit-image
+gunicorn
