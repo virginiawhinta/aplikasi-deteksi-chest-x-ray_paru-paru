@@ -1,6 +1,6 @@
 tensorflow
 Flask
 numpy
-opencv-python
+opencv-python-headless
 scikit-image
 gunicorn
